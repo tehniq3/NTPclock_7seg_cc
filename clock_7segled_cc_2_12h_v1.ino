@@ -152,7 +152,6 @@ citire3 = 1;
      else displayTime12();
   citire = 0;
   citire2 = 0;
-  citire3 = 0;
  }
  else
  if ((secunda > 45) and (secunda <= 50))
@@ -194,6 +193,7 @@ citire3 = 1;
  {
    if (minut %2 == 0) displayTime();
      else displayTime12();
+     citire3 = 0;
  }
 
 }   //End of main program loop
