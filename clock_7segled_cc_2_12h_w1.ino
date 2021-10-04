@@ -321,7 +321,7 @@ iaData();
  }
  else
  {
-   if (minut%12 == 0) displayTime();
+   if (minut % 2 == 0) displayTime();
      else displayTime12();
  }
 
