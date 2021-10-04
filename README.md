@@ -7,3 +7,4 @@ https://nicuflorica.blogspot.com/2021/10/ceas-ntp-cu-date-meteo-de-la-senzor.htm
 
 ![pcb](https://blogger.googleusercontent.com/img/a/AVvXsEhkFwdGxunESq4z5Em0CjsDjTQ-kL1pQTIhbKDwfOGkm5w_XQpyrPxWVt2Qou3IvGcaNcVoJVG-aOSYEF9K5_hwqUlunJSs8hr7gOdjJX80lE6G4tk7xo1zFkFvIEbtICMg_Kc7sNraWKXQ_53L7kLOUYr9L8nUnwPJDoD5UsNkp15tDJIxM1J5UwGVlg=s1062)
 
+![display](https://blogger.googleusercontent.com/img/a/AVvXsEg8rsExX_6DLlDT0qQPUc_jPOS6FMqAiST7l8Lo4NzlTSLS38ohIB2mJNPOG1-OFWuHcYrJjAlvWHXZ2ZcH3eJNw2xD4wav6z1I4u5-KtzSlpUtzQFbTAdL-khKEDKsOzNqSqdGHUGWXxwPOXRLWhu_cGI-SSeqgdCOm-87xcxBmfuxLMbah-6l4ncDGg=s661)
