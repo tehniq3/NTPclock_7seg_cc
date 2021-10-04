@@ -515,7 +515,7 @@ iaData();
 
  if (secunda <= 45)
  {
-  if (minut%2 == 0) displayTime();
+  if (minut % 2 == 0) displayTime();
      else displayTime12();
   citire = 0;
   citire2 = 0;
@@ -558,7 +558,7 @@ iaData();
  }
  else
  {
-   if (minut%12 == 0) displayTime();
+   if (minut % 2 == 0) displayTime();
      else displayTime12();
  }
 
