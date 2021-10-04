@@ -72,6 +72,7 @@ int humidity = 0;
 byte citire = 0;
 byte citire2 = 0;
 byte refres = 0;
+byte citire3 = 0;
 
 unsigned long epochTime;
 byte tensHour, unitsHour, tensMin, unitsMin, tensSec, unitsSec;
@@ -507,9 +508,10 @@ tpcitire = millis();
 
 if ((ora == 0) and (minut == 0))
 {
-if (secunda == 0)
+if (citire3 == 0)
 {
 iaData();
+citire3 = 1;
 }
 }
 
@@ -519,6 +521,7 @@ iaData();
      else displayTime12();
   citire = 0;
   citire2 = 0;
+  citire3 = 0;
  }
  else
  if ((secunda > 45) and (secunda <= 50))
