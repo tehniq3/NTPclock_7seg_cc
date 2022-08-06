@@ -2,10 +2,7 @@
 
 > __Note__ Sketch clock_7segled_cc_2_12h_w2a.ino was updated (solved undefined a variable).
 
-<h3 style="color:#f11010">Danger</h3>
-
-
-https://nicuflorica.blogspot.com/2021/10/ceas-ntp-cu-date-meteo-de-la-senzor.html
+article: https://nicuflorica.blogspot.com/2021/10/ceas-ntp-cu-date-meteo-de-la-senzor.html
 
 ![real](https://blogger.googleusercontent.com/img/a/AVvXsEhbZ0zTNTHDlasm3gMxHbyaSeeeQ1r6RyJfzGkacybQLHhntcHKkMs1RlUhnGm1jxKRQXC1CVxnBzxjV6_MBcRU8z6Chf9hCC1TGkLwdzUkQ18neKrAe_KhB87yNdW0m-dYhOdfWPmr1sENnFfShSuCTY1wGbDHAxcQqeFP_2A308DK6nG5f7nlx6G0zQ=w150-h200)
 
