@@ -1,6 +1,7 @@
 # NTPclock_7seg_cc
 
 > __Note__Note: Sketch clock_7segled_cc_2_12h_w2a.ino was updated (solved undefined a variable).
+> > __Warning__ bla bla
 
 https://nicuflorica.blogspot.com/2021/10/ceas-ntp-cu-date-meteo-de-la-senzor.html
 
