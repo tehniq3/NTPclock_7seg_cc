@@ -80,6 +80,8 @@ String ip = "";
 byte lungip = 0;
 int aipi[20];
 
+int citire3 = 0; // variable to read data
+
 /******************************************************************************* 
 * Digits are lit by shiting out one byte where each bit corresponds to a grid. 
 * 1 = on; 0 = off;
